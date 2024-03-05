@@ -3,9 +3,6 @@ import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timel
 import 'react-vertical-timeline-component/style.min.css';
 import { TbBrandAzure } from "react-icons/tb";
 import { TbBrandGithubCopilot } from "react-icons/tb";
-import { SiCisco } from "react-icons/si";
-import { GiArchiveResearch } from "react-icons/gi";
-import { FaHourglassStart } from "react-icons/fa";
 
 const Work = () => {
     return (

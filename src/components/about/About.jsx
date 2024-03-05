@@ -1,6 +1,5 @@
 import React from 'react'
 import './about.css'
-import myImage from '../../assets/me1.jpeg'
 import {GiGraduateCap} from 'react-icons/gi'
 import {BsBookmarkStar} from 'react-icons/bs'
 import {TfiWorld} from 'react-icons/tfi'
@@ -11,12 +10,6 @@ const About = () => {
       <h2>About Me</h2>
 
       <div className="container about__container">
-
-          {/* <div className="about__me">
-            <div className="about__me-image">
-                <img src={myImage} alt="Me" />
-            </div>
-          </div> */}
 
           <div className="about__content">
             <div className="about__cards">

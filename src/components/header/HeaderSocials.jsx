@@ -1,6 +1,5 @@
 import React from 'react'
 import { BsLinkedin } from 'react-icons/bs'
-import { BsGithub } from 'react-icons/bs'
 import { ImProfile } from "react-icons/im";
 
 const HeaderSocials = () => {
